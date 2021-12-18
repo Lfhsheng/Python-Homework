@@ -1,2 +1,2 @@
-# Python-Homework
-Python作业
+# 关于
+此仓库用于提交Python作业 ~~对你有用的话就直接照抄吧😶~~
