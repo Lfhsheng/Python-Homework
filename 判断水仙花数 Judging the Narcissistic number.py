@@ -1,5 +1,5 @@
 total = 0
-num = int(input('请输入一个数字：')) # Speak in Englsh: Please enter a number:
+num = int(input('请输入一个百位数：')) # Speak in Englsh: Please enter a hundreds digit:
 hun_num = int(num/100)
 ten_num = int(num/10)-10*hun_num
 single_num = num%10
